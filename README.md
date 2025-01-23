@@ -1,9 +1,9 @@
 # SpellCraft: Programming Through Magic 🔮
 
-Welcome to SpellForge, a unique learning system that transforms programming concepts into magical spells and incantations. This repository implements a dynamic, process-oriented learning experience that can be adapted to various learning environments.
+Welcome to SpellCraft, a unique learning system that transforms programming concepts into magical spells and incantations. This repository implements a dynamic, process-oriented learning experience that can be adapted to various learning environments.
 
 ## Core Concept
-SpellForge treats programming concepts as magical abilities that build upon each other. Each concept is a spell that can be learned, practiced, and mastered. By combining spells from different schools of magic (programming domains), learners become powerful technomancers capable of creating sophisticated programs.
+SpellCraft treats programming concepts as magical abilities that build upon each other. Each concept is a spell that can be learned, practiced, and mastered. By combining spells from different schools of magic (programming domains), learners become powerful technomancers capable of creating sophisticated programs.
 
 ## Repository Structure
 - `/forge`: Main learning materials and spell documentation
