@@ -1,4 +1,4 @@
-# SpellForge: Programming Through Magic 🔮
+# SpellCraft: Programming Through Magic 🔮
 
 Welcome to SpellForge, a unique learning system that transforms programming concepts into magical spells and incantations. This repository implements a dynamic, process-oriented learning experience that can be adapted to various learning environments.
 
